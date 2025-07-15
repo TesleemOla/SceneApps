@@ -10,13 +10,11 @@ export default function CTASection() {
             SceneApps
           </span>
 
-          <div className="flex justify-center">
             <img
               src="/Mask Group.svg"
               alt="mask group"
-              className="absolute -left-10 top-[10%] h-[80%] w-1/3 lg:w-full"
+              className="absolute -left-10 top-[10%] h-[80%]"
             />
-          </div>
 
           <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4   text-right lg:text-center">
             Capture, Connect, Share
