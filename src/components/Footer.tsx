@@ -25,7 +25,7 @@ export default function Footer() {
             <div className="space-y-2 text-sm text-green-100">
               <p className="flex items-center">
                 <MapPin className="w-4 h-4 mr-2" />
-                Honolulu, Oahu Event Repairs
+                Abeokuta, Ogun State, Nigeria
               </p>
               <p className="flex items-center">
                 <Mail className="w-4 h-4 mr-2" />
@@ -33,7 +33,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
-                Ka
+                08023400000
               </p>
             </div>
           </div>
