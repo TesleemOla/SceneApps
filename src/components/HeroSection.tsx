@@ -54,7 +54,17 @@ export default function HeroSection() {
                   <img 
                     src="/alo_ping.png" 
                     alt="Friends reacting to content" 
-                    className="w-full h-full rounded-2xl object-cover -rotate-20"
+                    className="lg:hidden w-full h-full rounded-2xl object-cover -rotate-16"
+                  />
+                  <img 
+                    src="/Black x2.png" 
+                    alt="Friends reacting to content" 
+                    className="hidden lg:block 2xl:hidden w-full h-full rounded-2xl object-cover -rotate-16"
+                  />
+                  <img 
+                    src="/Black x4.png" 
+                    alt="Friends reacting to content" 
+                    className="hidden 2xl:block w-full h-full rounded-2xl object-cover -rotate-16"
                   />
                 {/* </div> */}
               </div>
