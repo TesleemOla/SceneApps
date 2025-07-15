@@ -14,15 +14,15 @@ export default function CTASection() {
             <img
               src="/Mask Group.svg"
               alt="mask group"
-              className="absolute -left-10 top-[10%] h-[80%]"
+              className="absolute -left-10 top-[10%] h-[80%] w-1/3 lg:w-full"
             />
           </div>
 
-          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4   text-right lg:text-center">
             Capture, Connect, Share
           </h2>
 
-          <p className="text-lg text-gray-600 mb-8 max-w-2xl mx-auto">
+          <p className="text-lg text-gray-600 mb-8 max-w-2xl  text-right lg:text-center">
             Join millions of users sharing authentic reactions. Download
             SceneApps today and connect with friends instantly through video
             content. Share your experiences like never before.
