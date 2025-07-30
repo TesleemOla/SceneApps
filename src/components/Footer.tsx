@@ -16,7 +16,7 @@ export default function Footer() {
               <span className="text-xl font-semibold">SceneApps</span>
             </div>
             <p className="text-green-100 text-sm">
-              Copyright © 2024 • SceneApps International
+              Copyright © 2024 • SceneApps Incorporated
             </p>
           </div>
 
@@ -31,25 +31,29 @@ export default function Footer() {
                 <Mail className="w-4 h-4 mr-2" />
                 contact@sceneapps.com
               </p>
-              <p className="flex items-center">
+              {/* <p className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
                 08023400000
-              </p>
+              </p> */}
             </div>
           </div>
 
           {/* Legal Links */}
           <div>
-            <div className="space-y-2 text-sm text-green-100">
-              <p className="hover:text-white cursor-pointer transition-colors">
-                Terms of Use
-              </p>
-              <p className="hover:text-white cursor-pointer transition-colors">
+            <div className="space-y-2 space-x-2 text-sm text-green-100">
+              <a
+                href="http://sceneapps.com/terms-condition.html"
+                className="hover:text-white cursor-pointer transition-colors"
+              >
+                Terms & Conditions
+              </a>
+              <a
+                href="http://sceneapps.com/privacy-policy.html"
+                className="hover:text-white cursor-pointer transition-colors"
+              >
                 Privacy Policy
-              </p>
-              <p className="hover:text-white cursor-pointer transition-colors">
-                Cookie Policy
-              </p>
+              </a>
+              
             </div>
           </div>
         </div>

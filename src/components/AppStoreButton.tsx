@@ -19,7 +19,7 @@ export default function AppStoreButton({ store }: AppStoreButtonProps) {
         <SiGoogleplay className="w-6 h-6 mr-3 flex-shrink-0" />
       )}
       <div className="text-center sm:text-left">
-        <div className="text-xs">Download from the</div>
+        <div className="text-xs">Download from</div>
         <div className="text-lg font-semibold">
           {isApple ? "App Store" : "Play Store"}
         </div>
