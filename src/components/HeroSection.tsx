@@ -24,7 +24,7 @@ export default function HeroSection() {
               <AppStoreButton store="google" />
             </div>
             
-            {/* User Avatars */}
+            {/* User Avatars
             <div className="flex items-center justify-center lg:justify-start space-x-2">
               <img 
                 src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&w=150&h=150&fit=crop&crop=face" 
@@ -42,8 +42,8 @@ export default function HeroSection() {
                 className="w-10 h-10 rounded-full border-2 border-white shadow-md -ml-2"
               />
               <span className="text-sm text-gray-600 ml-3">Join 1M+ users</span>
-            </div>
-          </div>
+            </div>*/}
+          </div> 
           
           {/* Right Content - Phone Mockups */}
           <div className="relative">
