@@ -1,7 +1,18 @@
+import { useEffect } from "react";
 import { Link } from "wouter";
 
 export default function Privacy() {
   const lastUpdated = "January 15, 2026";
+
+   useEffect(()=>{
+      // scroll to top
+      window.scrollTo({
+        top: 0,
+        left: 0,
+        behavior: 'instant', // 'instant' is often better for initial loads
+      });
+  
+    },[])
 
   return (
     <div className="min-h-screen bg-white py-20 px-6">
