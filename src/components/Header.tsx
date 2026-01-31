@@ -46,6 +46,6 @@ export function Header() {
           </nav>
         </div>
       </div>
-    </Header>
+    </header>
   );
 }
