@@ -1,0 +1,163 @@
+I want you to design and build a clean, modern, emotionally intelligent website that fully describes my AI-powered social platform — a platform that captures, understands, and analyzes authentic human reactions to video content in real time.
+
+The site should clearly showcase every feature and communicate that this platform makes online interaction as natural as human life itself — through emotion, voice, and connection.
+
+⸻
+
+🎯 Core Message
+
+“The world’s first social platform built to understand how people truly feel — through their real faces, voices, and emotions.”
+
+Subtext:
+“No filters. No text replies. Just real emotion, real reactions, and AI that understands the human experience.”
+
+⸻
+
+🧱 Design & Tone
+	•	Style: Minimalist, futuristic, emotionally warm.
+	•	Color Palette: White background, soft gradients (silver-blue-lavender).
+	•	Typography: Inter, Poppins, or Nunito Sans.
+	•	Layout: Smooth, scrolling, single-page story experience.
+	•	Tone: Human, empathetic, intelligent, visionary.
+	•	Responsive: Optimized for mobile, tablet, and desktop.
+
+⸻
+
+🖼️ Website Structure
+
+1. Hero Section
+	•	Headline: “Where Real Reactions Shape Real Connections.”
+	•	Subtext:
+“An intelligent social platform that understands emotion through your expressions and voice — not emojis or likes.”
+	•	Buttons: Join Waitlist | Watch Demo
+	•	Optional: looping background of real people reacting naturally (smiling, thinking, laughing, surprised).
+
+⸻
+
+2. About the Platform
+	•	Headline: “The Most Human Social Platform Ever Built.”
+	•	Paragraph:
+This platform lets users post short videos, share genuine reactions, and mention others naturally — just like in real life. Our AI listens, detects, and interprets tone, emotion, and intent to make digital conversations feel human again.
+	•	Emphasize: No fakes. No forced interactions. Just authentic communication powered by emotion-aware AI.
+
+⸻
+
+3. All Core Features (Highlight Everything)
+
+👁️ 1. Real-Time Emotion Analysis
+	•	The AI detects facial expressions, micro-reactions, and vocal tones in real time.
+	•	It identifies emotions like joy, surprise, frustration, calm, and empathy.
+	•	Results appear as transparent emotion scores for creators, users, and brands to understand genuine audience response.
+
+🗣️ 2. Intelligent Verbal Mentions (Natural Spoken Mentions)
+	•	This is a breakthrough feature: users don’t need to use “@” symbols or text tags.
+	•	When someone naturally says another person’s name aloud in their video — for example,
+“Daniel, you really need to see this,” or “I think Nike did something brilliant here,” —
+the AI automatically recognizes the spoken name, identifies who they’re referring to, and triggers a video mention notification to that person.
+	•	The mentioned user can only respond through a video reply, keeping interactions authentic and emotionally rich.
+	•	It mirrors real-life communication — conversational, expressive, and emotionally layered — while powered by real-time speech recognition and AI understanding.
+	•	This feature transforms mentions from text-based tags into human dialogue.
+
+❤️ 3. Authentic Reaction Capture
+	•	Users can only post real-time video reactions, not pre-recorded or edited videos.
+	•	This ensures every reaction captured is spontaneous and emotionally genuine.
+	•	The platform prioritizes truth over performance.
+
+🧠 4. AI Reaction Grading System
+	•	Every video and reaction is analyzed across five emotional and behavioral metrics:
+	•	Authenticity
+	•	Emotional Intensity
+	•	Tone & Mood Balance
+	•	Engagement Depth
+	•	Sentiment Polarity (positive/neutral/negative)
+	•	Grading is transparent and visible, allowing creators and brands to understand the real emotional impact of their content.
+
+📊 5. Emotion Insights Dashboard
+	•	Each creator or brand has a dashboard summarizing audience emotion over time.
+	•	Displays metrics like happiness ratio, empathy rate, excitement peaks, and average sentiment trends.
+	•	Turns emotional data into visual storytelling.
+
+🧩 6. Brand & Business Emotion Analytics
+	•	Businesses can access aggregated emotional insights about how people react to their videos or products.
+	•	Data can be filtered by:
+	•	Keywords or verbal mentions (e.g., “Nike”)
+	•	Emotional category (e.g., joy, curiosity, trust)
+	•	Demographics or campaign type.
+	•	They see authentic audience emotion, not manipulated engagement numbers.
+	•	Only public videos and mentions are analyzed — private ones are never touched.
+
+🛡️ 7. Privacy and Authenticity Safeguards
+	•	Privacy is foundational.
+	•	Only publicly shared videos and spoken mentions are processed.
+	•	Private messages, DMs, or non-consensual data are off-limits.
+	•	AI works silently in the background — it observes, never interferes.
+
+🏅 8. Reward & Incentive System
+	•	Users earn points, badges, or tokens for consistent authentic engagement.
+	•	The more real and emotionally rich your interactions, the higher your recognition.
+	•	Rewards prioritize sincerity over virality.
+
+🧬 9. The AI Social Brain
+	•	The AI functions as the silent brain of the platform.
+	•	It learns emotional context and interaction patterns — not to manipulate, but to understand.
+	•	It helps surface authentic, emotionally resonant content without addictive algorithms.
+
+👥 10. For All User Types
+	•	Creators: Share real moments, understand audience emotions, and grow through authenticity.
+	•	Viewers: React naturally, express themselves, and connect emotionally.
+	•	Businesses: Access real-time emotion data to understand how people truly feel.
+
+⸻
+
+4. How It Works
+
+Visual step-by-step section:
+	1.	Create: Post your video.
+	2.	Speak Naturally: Mention names or talk freely — the AI detects natural verbal mentions.
+	3.	React: Others record live video reactions — no text comments.
+	4.	Analyze: AI detects emotions, tone, and engagement in real time.
+	5.	Understand: Emotion scores and insights reveal true audience sentiment.
+
+⸻
+
+5. Why It Matters
+	•	Headline: “We’re rebuilding social media to feel human again.”
+	•	Subtext: “For the first time, technology doesn’t just see or hear you — it understands you.”
+	•	This platform transforms emotion from invisible to visible — helping people, creators, and brands understand one another in the most human way possible.
+
+⸻
+
+6. For Businesses & Brands
+	•	Headline: “Finally, Know What People Truly Feel.”
+	•	Explain that the platform gives access to emotion-based performance data — revealing how people actually feel about content, not just what they click.
+	•	Include visual mockups of graphs, emotion bars, or sentiment heatmaps.
+
+⸻
+
+7. Vision & Philosophy
+	•	Headline: “Technology That Feels.”
+	•	Subtext: “We built AI not to replace human emotion — but to understand it.”
+	•	Mission: Create a digital world where emotion, empathy, and authenticity are the foundation of connection.
+
+⸻
+
+8. Call to Action
+	•	Closing line:
+“Join the movement redefining how humans connect, express, and understand each other online.”
+	•	Buttons: Join Waitlist | Request Access | Partner With Us
+	•	Include a short contact form (Name, Email, and Role: User / Creator / Business).
+
+⸻
+
+🧠 Technical Build Instructions
+	•	Use HTML, CSS, and JavaScript (no heavy frameworks).
+	•	Modular, semantic, and well-commented code.
+	•	Smooth scroll-based animations and fade-ins.
+	•	Responsive and mobile-first.
+	•	Include placeholder visuals for videos, graphs, and demo data.
+	•	Add mock form submission success message.
+
+⸻
+
+End Goal:
+Build a one-page website that emotionally and visually communicates what my platform does — highlighting its human realism, AI emotional intelligence, and especially natural verbal mentions that work without “@” symbols — showing how this technology brings real human interaction to the digital world.

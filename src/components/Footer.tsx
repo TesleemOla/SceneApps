@@ -1,60 +1,73 @@
-import { MapPin, Mail } from "lucide-react";
+import { Mail } from "lucide-react";
+import { Link } from "wouter";
+import logoImage from "/favicon.png";
 
-export default function Footer() {
+export function Footer() {
+  const currentYear = new Date().getFullYear();
+
   return (
-    <footer id="contact" className="bg-primary-green text-white py-12">
-      <div className="max-w-7xl mx-auto px-4 lg:px-8">
-        <div className="grid md:grid-cols-3 gap-8">
-          {/* Logo and Company Info */}
-          <div>
-            <div className="flex items-center space-x-2 mb-4">
-              <img
-                src="/LogoSVG.svg"
-                alt="SceneApps Logo"
-                className="w-8 h-8"
-              />
-              <span className="text-xl font-semibold">SceneApps</span>
-            </div>
-            <p className="text-green-100 text-sm">
-              Copyright © 2024 • SceneApps Incorporated
+    <footer id="contact" className="bg-[#f8fafc] border-t border-slate-200">
+      <div className="max-w-7xl mx-auto px-6 py-20 lg:py-24">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-16 lg:gap-12 mb-20 items-start">
+          {/* Company Info */}
+          <div className="space-y-6 lg:col-span-6" data-testid="footer-company">
+            <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity w-fit no-default-hover-elevate">
+              <div className="w-10 h-10 rounded-full overflow-hidden flex items-center justify-center bg-transparent shrink-0">
+                <img 
+                  src={logoImage} 
+                  alt="SceneApps Logo" 
+                  className="w-full h-full object-cover"
+                />
+              </div>
+              <span className="text-xl font-extrabold tracking-tight text-slate-900 leading-none" data-testid="text-company-logo">SceneApps</span>
+            </Link>
+            <p className="text-base text-slate-600 leading-relaxed max-w-sm font-medium">
+              A Delaware C-Corp with operations based in Nigeria. Redefining how humans connect, express, and understand each other through authentic emotional intelligence.
             </p>
           </div>
 
-          {/* Contact Info */}
-          <div>
-            <div className="space-y-2 text-sm text-green-100">
-              <p className="flex items-center">
-                <MapPin className="w-4 h-4 mr-2" />
-                Abeokuta, Ogun State, Nigeria
-              </p>
-              <p className="flex items-center">
-                <Mail className="w-4 h-4 mr-2" />
-                contact@sceneapps.com
-              </p>
-              {/* <p className="flex items-center">
-                <Phone className="w-4 h-4 mr-2" />
-                08023400000
-              </p> */}
-            </div>
+          {/* Privacy & Terms */}
+          <div data-testid="footer-links" className="lg:col-span-3">
+            <h3 className="text-sm font-bold uppercase tracking-[0.1em] text-slate-400 mb-6">Legal</h3>
+            <ul className="space-y-4">
+              <li>
+                <Link href="/privacy" className="text-[15px] font-semibold text-slate-600 hover:text-[hsl(var(--vibrant))] transition-colors" data-testid="link-privacy">
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link href="/terms" className="text-[15px] font-semibold text-slate-600 hover:text-[hsl(var(--vibrant))] transition-colors" data-testid="link-terms">
+                  Terms of Service
+                </Link>
+              </li>
+              <li>
+                <Link href="/child-safety" className="text-[15px] font-semibold text-slate-600 hover:text-[hsl(var(--vibrant))] transition-colors" data-testid="link-child-safety">
+                  Child Safety Policy
+                </Link>
+              </li>
+            </ul>
           </div>
 
-          {/* Legal Links */}
-          <div>
-            <div className="space-y-2 space-x-2 text-sm text-green-100">
-              <a
-                href="http://sceneapps.com/terms-condition.html"
-                className="hover:text-white cursor-pointer transition-colors"
-              >
-                Terms & Conditions
-              </a>
-              <a
-                href="http://sceneapps.com/privacy-policy.html"
-                className="hover:text-white cursor-pointer transition-colors"
-              >
-                Privacy Policy
-              </a>
-              
-            </div>
+          {/* Contact Info */}
+          <div data-testid="footer-contact" className="lg:col-span-3">
+            <h3 className="text-sm font-bold uppercase tracking-[0.1em] text-slate-400 mb-6">Contact</h3>
+            <ul className="space-y-4">
+              <li className="flex items-center gap-3" data-testid="text-email">
+                <Mail className="w-4 h-4 text-slate-400 flex-shrink-0" />
+                <a href="mailto:contact@sceneapps.com" className="text-[15px] font-semibold text-slate-600 hover:text-[hsl(var(--vibrant))] transition-colors">
+                  contact@sceneapps.com
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        {/* Bottom Bar */}
+        <div className="pt-10 border-t border-slate-200">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+            <p className="text-sm text-slate-500 font-medium whitespace-nowrap" data-testid="text-copyright">
+              © {currentYear} SceneApps Incorporated. All rights reserved.
+            </p>
           </div>
         </div>
       </div>

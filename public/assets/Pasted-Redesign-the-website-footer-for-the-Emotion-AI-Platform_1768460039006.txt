@@ -1,0 +1,72 @@
+Redesign the website footer for the “Emotion AI Platform – SceneApps” to improve readability, visibility, and overall aesthetics.
+
+Current footer elements to keep:
+
+SceneApps logo and name
+
+Tagline about redefining human connection through emotion AI
+
+“LEGAL” section with Privacy Policy and Terms of Service
+
+“CONTACT” section with the support email
+
+Copyright line for 2026 SceneApps Incorporated
+
+Design goals:
+
+Readability
+
+Set base footer text size to 14–16px with comfortable line-height.
+​
+
+Create a clear hierarchy: brand name/logo as the primary element, then tagline, then legal/contact text in smaller type.
+​
+
+Avoid awkward line breaks so sentences like the copyright appear on a single line when possible.
+​
+
+Visibility and contrast
+
+Choose a footer background that contrasts well with the main page while maintaining brand colors (e.g., slightly darker or lighter band).
+​
+
+Ensure strong contrast between text and background; adjust colors to meet accessibility guidelines.
+​
+
+Style links (Privacy Policy, Terms of Service, email) with a distinct color and clear hover/focus states.
+​
+
+Layout and structure
+
+Use a three-column layout on desktop:
+
+Left: logo + short tagline
+
+Middle: “Legal” links
+
+Right: “Contact” with email
+
+Align elements neatly and add consistent vertical and horizontal spacing.
+​
+
+Add sufficient padding above and below the footer to visually separate it from the preceding content.
+​
+
+Branding and aesthetics
+
+Match the typography (font family, weights, letter spacing) to the rest of the site.
+​
+
+Make the logo area (icon + “SceneApps”) clean and clickable to the homepage.
+​
+
+Optionally add subtle accents: a thin divider line above the footer, small icon next to the email, and minimal social icons if appropriate to the brand.
+​
+
+Deliverables:
+
+Updated footer layout for desktop and mobile (responsive)
+
+Color, typography, and spacing specs
+
+Implementation-ready HTML/CSS suggestions or a component spec that a developer can build from.

@@ -1,0 +1,148 @@
+Here is a single, Nigeria‑aware master prompt you can drop into your AI tool to generate all three pages (Terms, Privacy, Child Safety) in one go.
+
+***
+
+## Unified legal‑pages prompt (Nigeria‑aware)
+
+> You are an experienced product, privacy, and trust‑and‑safety counsel. Draft three separate, production‑ready legal documents for a consumer social app, formatted as clear headings and sections I can paste directly into `/terms`, `/privacy`, and `/child-safety` pages.  
+>  
+> **Product / company context**  
+> - App name: “SceneApps”.  
+> - Tagline: “The Most Human Social Platform Ever Built”.  
+> - Purpose: SceneApps is a social platform that uses AI to understand human emotion from video and audio reactions, focusing on expressions and voice rather than emojis or likes.[1]
+> - Key features:  
+>   - Users share short, authentic video and audio reactions.  
+>   - AI analyzes tone, emotion, intensity, and intent, and generates authenticity/engagement scores and insights.  
+>   - Verbal mentions (saying a name mentions a user).  
+>   - Social features: follows, comments, notifications, feeds.  
+> - Platforms: Mobile app (iOS/Android) plus a public marketing website.  
+> - Company name: SceneApps Incorporated.  
+> - Contact email: contact@sceneapps.com.  
+> - Key market: Nigeria as a primary jurisdiction, but with a global user base.  
+>  
+> **Regulatory and policy background to consider (high level, not hyper‑technical)**  
+> - Nigeria now has the Nigeria Data Protection Act 2023 (NDPA), which replaced NDPR as the main enforcement framework, and is enforced by the Nigeria Data Protection Commission (NDPC).[2][3][4][5]
+> - NDPA‑style expectations include: lawfulness, fairness, transparency; specific and legitimate purposes; data minimisation; accuracy; storage limitation; security; accountability; and strong data‑subject rights.[6][3][4]
+> - Nigeria also has a National Child Online Protection Policy and Strategy and an emerging Child Online Access Protection Bill, reflecting strong focus on protecting minors online.[7][8]
+> - Do not cite specific sections of any law; just align language with these principles in plain English.  
+>  
+> **Overall drafting requirements**  
+> - Write in clear, simple, global English suitable for both Nigerian and international users.  
+> - Do not use legalese; keep sentences relatively short and direct.  
+> - Avoid explicit citations to “NDPA section X” or “Cybercrime Act section Y”; instead, describe obligations and rights in general terms.  
+> - Each of the three documents must start with a prominent title and a “Last updated: [month day, year]” line I can easily change.  
+> - Make each document complete enough to look credible on a real startup’s website or in‑app legal section, but concise enough to be readable on mobile.  
+>  
+> ---  
+>  
+> **Document 1: Terms of Service (for `/terms`)**  
+> Draft Terms of Service for SceneApps that:  
+> - Treat Nigeria as the primary governing‑law jurisdiction (“laws of the Federal Republic of Nigeria”), while remaining globally understandable.[3][9]
+> - Include clear sections on at least:  
+>   1. Acceptance of terms.  
+>   2. Eligibility (no users under 13; 13–17 only with parental/guardian consent; reference that stricter local rules may apply in some places, with Nigeria as a key example).[8][7]
+>   3. Description of the Service (emotion‑analysis social platform; AI uses video, audio, and interaction data).  
+>   4. User accounts and responsibilities (accurate information, account security).  
+>   5. User content and license (user retains ownership; gives SceneApps a worldwide, non‑exclusive, royalty‑free, sublicensable license to operate, improve, and promote the Service).  
+>   6. Prohibited conduct (illegal, hateful, exploitative, non‑consensual, or sexually explicit content, especially involving minors; harassment; stalking; doxxing; bypassing security; using bots or scrapers without consent).  
+>   7. AI and emotion analysis disclaimer:  
+>      - Emotion and authenticity scores are algorithmic estimates and may be imperfect or biased.  
+>      - Outputs are informational/entertainment only, not medical or psychological advice.  
+>      - Users must not use outputs to harass, discriminate, or exploit others, especially minors.  
+>   8. Intellectual property (SceneApps’ IP vs. User Content).  
+>   9. Third‑party services and links.  
+>   10. Termination and suspension (including for child‑safety violations).  
+>   11. Disclaimers.  
+>   12. Limitation of liability.  
+>   13. Indemnification.  
+>   14. Changes to the Terms.  
+>   15. Governing law and dispute venue (reference Nigeria, worded simply).  
+>   16. Contact.  
+> - Keep the structure clean, with numbered sections and subsection headings.  
+>  
+> ---  
+>  
+> **Document 2: Privacy Policy (for `/privacy`)**  
+> Draft a Privacy Policy for SceneApps that:  
+> - Clearly applies to both the mobile apps and the marketing website.  
+> - Explicitly notes that for Nigerian users, personal data is handled in line with Nigeria’s current data‑protection framework (including NDPA 2023 and NDPC guidance), in general terms, without citing specific sections.[4][6][3]
+> - Includes sections on at least:  
+>   1. Overview and scope.  
+>   2. Information collected:  
+>      - Account/profile data (email, username, profile details, password hashed).  
+>      - Content data (video/audio reactions, images, related metadata such as timestamps and basic device context).[1]
+>      - Device and usage data (device model, OS, app version, IP, crash logs, feature usage, session data).  
+>      - AI‑generated data: emotion, tone, authenticity/engagement scores, and other insights derived from user content and interaction patterns.  
+>   3. How information is used (providing the Service, powering AI features, personalising experience, safety and abuse‑detection, analytics, communication).  
+>   4. Legal bases for processing (where required): performance of a contract, legitimate interests, consent, and other typical bases recognised by modern privacy laws, described in general language.[10][2][3]
+>   5. Sharing of information:  
+>      - With service providers (hosting, analytics, support, security).  
+>      - With authorities where required to comply with law or protect users/public.  
+>      - In case of corporate transactions (mergers, acquisitions, etc.), with safeguards.  
+>      - Clarify that SceneApps does not “sell” personal data in the common sense of selling lists of users.  
+>   6. Data retention and deletion/anonymisation when no longer needed.  
+>   7. Children’s privacy:  
+>      - The Service is not directed to children under 13.  
+>      - 13–17 should only use the Service with parental/guardian consent and supervision, especially in Nigeria given local child‑online‑protection focus.[7][8]
+>      - Explain that accounts believed to be used by children without appropriate consent may be limited or removed.  
+>   8. Users’ rights and choices (with Nigeria called out explicitly but still global):  
+>      - Rights to access, correct, delete personal data, to object or restrict certain processing, and to withdraw consent where applicable.  
+>      - Note, in simple language, that Nigerian users can complain to the Nigeria Data Protection Commission if they are unhappy with how their data is handled (no addresses or section references).[6][3][4]
+>      - Mention how users can exercise rights (e.g., in‑app settings or by email).  
+>   9. Security measures (reasonable technical and organisational measures; no absolute guarantees).  
+>   10. International transfers:  
+>       - Explain that data (including data of Nigerian users) may be processed outside Nigeria, and that appropriate safeguards consistent with modern privacy standards are applied.[3][4][6]
+>   11. Changes to this Policy.  
+>   12. Contact details.  
+> - Keep the overall tone user‑friendly and transparent.  
+>  
+> ---  
+>  
+> **Document 3: Child Safety Policy (for `/child-safety`)**  
+> Draft a Child Safety Policy for SceneApps that:  
+> - Explicitly supports safer online environments for children and young people in Nigeria and globally, referencing Nigeria’s strong emphasis on child online protection in general terms.[8][7]
+> - Includes sections on at least:  
+>   1. Purpose and commitment (SceneApps’ commitment to protecting minors on the platform).  
+>   2. Age requirements (no under‑13 users; 13–17 only with parental/guardian consent and supervision).  
+>   3. Prohibited content and conduct involving minors, with clear, strict language that covers:  
+>      - Sexual or sexually suggestive content involving minors, including nudity or partial nudity focused on a minor’s body.  
+>      - Exploitation, grooming, trafficking, or sexualisation of minors.  
+>      - Depictions or encouragement of physical or emotional abuse, self‑harm, or dangerous activities involving minors.  
+>      - Bullying, harassment, degrading treatment, or doxxing of minors (sharing their personal, identifying, or location information).  
+>   4. Use and limits of emotion‑AI features with minors:  
+>      - AI emotion and authenticity outputs must not be used to shame, manipulate, pressure, or unfairly profile minors.  
+>      - Explicitly prohibit using AI insights to groom, coerce, or exploit minors.  
+>      - State that misuse may result in content removal, feature restrictions, or account termination.  
+>   5. Reporting and response:  
+>      - Explain how users can report harmful content or behaviour involving minors (in‑app tools and contact email).  
+>      - State that SceneApps may remove content, suspend or terminate accounts, and report issues to relevant law‑enforcement or child‑protection authorities in Nigeria and other countries, where legally appropriate.[7][8]
+>   6. Moderation and enforcement:  
+>      - Mention use of automated systems and human review to detect and address harmful content.  
+>      - Ability to limit certain features or visibility for accounts reasonably believed to be minors.  
+>      - Examples of enforcement actions (warnings, removals, restrictions, termination).  
+>   7. Guidance for parents and guardians (online‑safety conversations, reporting mechanisms, ability to request review or deletion of a minor’s account).  
+>   8. Policy updates.  
+>   9. Contact details.  
+> - Use clear, direct language that an everyday Nigerian parent or teenager can understand.  
+>  
+> ---  
+>  
+> **Output format**  
+> - Return the three documents in this order:  
+>   1. “Terms of Service”  
+>   2. “Privacy Policy”  
+>   3. “Child Safety Policy”  
+> - For each document, start with a title and “Last updated: …” line, then use numbered sections with clear headings.
+
+[1](https://6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit.dev/)
+[2](https://cert.gov.ng/ngcert/resources/Nigeria_Data_Protection_Act_2023.pdf)
+[3](https://kpmg.com/ng/en/home/insights/2023/09/the-nigeria-data-protection-act--2023.html)
+[4](https://cookie-script.com/privacy-laws/nigeria-data-protection-act-2023)
+[5](https://youverify.co/blog/ndpr-to-ndpa-gaid-nigeria-data-protection-2025)
+[6](https://www.cookieyes.com/blog/nigeria-data-protection-act-ndpa/)
+[7](https://von.gov.ng/cabinet-approves-child-online-protection-policy/)
+[8](https://www.premiumtimesng.com/health/health-news/841607-rep-passes-child-online-safety-bill-to-protect-minors-in-digital-space.html)
+[9](https://www.dlapiperdataprotection.com/index.html?t=law&c=NG)
+[10](https://fpf.org/blog/nigerias-new-data-protection-act-explained/)
+[11](https://assets.kpmg.com/content/dam/kpmg/ng/pdf/nigeria-data-protection-act2023_kpmg-review.pdf)
+[12](https://www.gelias.com/images/Newsletter/The_Nigerian_Data_Protection_Act_2023_-_A_Review.pdf)

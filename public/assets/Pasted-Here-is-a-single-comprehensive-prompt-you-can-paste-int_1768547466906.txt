@@ -1,0 +1,210 @@
+Here is a single, comprehensive prompt you can paste into another AI tool to improve this specific page, keeping the current structure but upgrading the copy:
+
+***
+
+You are a senior product copywriter and tech-focused lawyer.  
+Your task: **improve the marketing site copy (excluding any “How it works” section) and generate three legal documents (Terms of Service, Privacy Policy, Child Safety Policy) for a production website**, while preserving the existing visual and structural layout of the current page.
+
+### 1. Context: product and brand
+
+Product: **SceneApps** – an “Emotion AI” social platform.
+
+Core idea: SceneApps lets users share authentic video reactions to content, while AI reads emotion from their expressions and voice to give creators honest, insight-rich feedback and make connections feel more real. [6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit](https://6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit.dev/)
+
+Company: **SceneApps Incorporated** (Nigeria-based), global consumer audience, app distributed via **Apple App Store** and **Google Play**. [dlapiperdataprotection](https://www.dlapiperdataprotection.com/index.html?t=law&c=NG)
+
+Tone and style goals:
+- Clear, concise, modern product copy.
+- Confident but grounded; avoid overhype.
+- Privacy- and safety-aware, but no heavy legalese in marketing sections.
+- Keep the existing sections/structure of the page; only improve wording and clarity.
+
+### 2. Current page structure (do not change structure)
+
+The current homepage at `https://6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit.dev/` has this structure: [6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit](https://6d42e108-9fd4-4a6f-a2f1-f41c55e0b2dc-00-144c7746grvwb.riker.replit.dev/)
+
+- Top navigation:  
+  - Logo / “SceneApps”  
+  - Links: “Features”, “Contact”
+
+- Hero section:  
+  - Headline: “The Most Human Social Platform Ever Built”  
+  - Subheadline: “The first social platform where AI understands human emotion. Share authentic video reactions as our AI reads tone and intent to make every connection feel real.”  
+  - Phrases: “No fakes / Purely authentic”  
+  - Store CTAs: “Download on the App Store”, “Get it on Play Store”  
+  - Visual reference: “SceneApps Dashboard”
+
+- “Core Features” section:  
+  - Intro line: “Experience the future of digital social interaction”  
+  - Feature blocks:  
+    1. **Verbal Mentions – BREAKTHROUGH**  
+       - Copy: “Say a name to trigger a mention. AI recognizes recipients naturally without tags or symbols.”  
+       - Tagline: “Voice Interface”  
+    2. **Authentic Reactions – Live Feed**  
+       - Copy: “Share spontaneous video reactions. We prioritize emotional truth over curated performance.”  
+    3. **Emotion Analysis – Emotion Dashboard**  
+       - Copy: “Detect facial expressions and reactions in real-time to reveal genuine engagement scores.”  
+    4. **Insights – Grading View**  
+       - Copy: “Transparent grading of authenticity and intensity across every digital interaction.”
+
+- Download / CTA section:  
+  - Heading: “Start Your Journey to Authentic Connection”  
+  - Subcopy: “Download the app today and experience social media that truly understands human emotion.”  
+  - Store CTAs: “Download on the App Store” / “Get it on Play Store”  
+  - Platform line: “Available for iPhone, iPad, and Android devices. Requires iOS 14.0+ or Android 8.0+”
+
+- Footer:  
+  - Brand line: “Redefining how humans connect, express, and understand each other through authentic emotional intelligence.”  
+  - Legal links: Privacy Policy, Terms of Service, Child Safety Policy  
+  - Contact email: `contact@sceneapps.com`  
+  - Copyright: “© 2026 SceneApps Incorporated. All rights reserved.”
+
+**Important constraint:**  
+- Keep this **structure, layout, and section order** intact.  
+- You are only allowed to improve / replace the copy within these same sections and labels (hero, feature blocks, CTA, brand line, etc.).
+
+### 3. Part 1 – Improve marketing copy (keep structure)
+
+Revise the homepage copy in **clear, concise English**, outputting just headings and text/bullets (no HTML). Respect the existing sections and headings:
+
+1. **Hero section**  
+   - Replace the hero headline with a more grounded but still bold line, in the same spirit as: “A more human way to react, share, and connect.”  
+   - Write a 1–2 sentence subheadline that clearly states:  
+     - Users capture and share real video reactions to content.  
+     - AI reads emotion from voice and expressions to understand how people truly feel.  
+     - Creators get honest, insight-rich feedback about their videos.  
+   - Keep the idea of “No fakes / Purely authentic”, but polish the phrasing.
+
+2. **Clarify the core promise**  
+   - Add a short paragraph or 3 short bullets (under the hero or near it) that answer:  
+     - What SceneApps does.  
+     - For whom (creators and everyday users).  
+     - What is unique (emotion-aware AI and authenticity, not likes/emojis).
+
+3. **Feature section – tighten each feature block**  
+   Keep these four feature blocks and their order:  
+   - Verbal Mentions  
+   - Authentic Reactions  
+   - Emotion Analysis  
+   - Insights  
+
+   For each feature:  
+   - Provide a short, descriptive subheadline (5–10 words).  
+   - Then 2–3 sentences in plain language explaining:  
+     - What the user does in that feature.  
+     - What SceneApps’ AI does.  
+     - The concrete benefit to the user or creator.  
+
+   The tone should be specific and benefit-driven, avoiding vague phrases like “future of interaction” unless tied to clear value.
+
+4. **Authenticity and safety reassurance**  
+   - Add a brief section (2–3 sentences or bullets, near the footer but outside the legal text) that reinforces:  
+     - Commitment to authentic, non-fake reactions and real emotion.  
+     - Respect for privacy and safety around video/voice, in plain language.  
+   - This section should naturally point toward the Privacy Policy and Child Safety Policy as deeper resources, without copying legal clauses.
+
+5. **CTAs and platform info**  
+   - Improve the download CTA lines (both near the hero and in the “Start Your Journey to Authentic Connection” section) so they speak to the benefit, e.g.:  
+     - “Download SceneApps and experience social media that actually understands how you feel.”  
+   - Keep the platform details (iOS/Android and OS versions) but compress into one clean, user-friendly sentence.
+
+**Deliverable for Part 1:**  
+- Hero: new headline, subheadline, and a 3-bullet or short-paragraph core promise.  
+- Feature section: revised copy for the 4 existing feature blocks.  
+- Short authenticity/safety reassurance section.  
+- Polished download CTA lines and platform sentence.  
+- All in text form, mapped to the existing sections; no new sections like “How it works.”
+
+### 4. Part 2 – Terms of Service (`/terms`)
+
+Draft a full **Terms of Service** for SceneApps in plain, structured language, suitable for a global consumer audience with governing law in **Nigeria**. Use clear headings and short paragraphs; avoid dense legalese but keep it enforceable.
+
+Include at least the following:
+
+- Definitions and acceptance of terms.  
+- Eligibility and minimum age (13+; note that higher ages or parental consent may be required by local law).  
+- Account creation, accurate information, responsibility for keeping credentials safe.  
+- Acceptable use and prohibited behavior, including:  
+  - Illegal content or activity.  
+  - Harassment, hate speech, bullying, threats.  
+  - Sexual or exploitative content involving minors.  
+  - Non-consensual sharing of others’ images or recordings.  
+  - Spam, impersonation, fraud, attempts to hack or disrupt the service.  
+- Rules about recording and sharing reaction videos and using Verbal Mentions responsibly.  
+- User-generated content and licenses:  
+  - Users retain ownership of their content.  
+  - Non-exclusive, worldwide license to SceneApps to host, process, display, and improve the service.  
+  - Users must have rights to the content they upload.  
+- SceneApps intellectual property (app, website, branding, technology); no reverse engineering, scraping, or misuse of IP.  
+- Third-party services and links (hosting, analytics, app stores, etc.).  
+- AI, scoring and insights:  
+  - Explain that AI analyzes reactions and generates scores/insights.  
+  - Clarify they are informational only, not guaranteed accurate, and not a substitute for human judgment.  
+- Moderation, enforcement, and safety: content review powers, removal, restriction, suspension/termination for policy or legal violations.  
+- Disclaimers and limitation of liability.  
+- Indemnity clause.  
+- Termination and what happens to content and accounts on termination/deletion.  
+- Governing law (Nigeria) and dispute resolution, acknowledging mandatory consumer protections where applicable.  
+- Changes to the Terms and how users will be notified.
+
+### 5. Part 3 – Privacy Policy (`/privacy`)
+
+Draft a detailed **Privacy Policy** for SceneApps in plain language, with a modern, GDPR-style structure (but without copying any existing text).
+
+Include:
+
+- Introduction and data controller information: SceneApps Incorporated (Nigeria), reference to app and website, contact email `contact@sceneapps.com`.  
+- Data collected:  
+  - User-provided: profile info (name, username, photo, contact details), reaction videos and audio, comments, messages, feedback, optional imported contacts.  
+  - Automatically collected: device info, OS, app version, IP, approximate location (if used), usage data (views, interactions), diagnostics and crash logs, identifiers.  
+  - AI/emotion-related data: how facial expressions, voice tone, and other signals are processed to infer emotion and generate scores.  
+- How and why data is used:  
+  - To operate and improve the app and features.  
+  - To power Verbal Mentions, Emotion Analysis, and Insights.  
+  - To personalize content and experiences.  
+  - To maintain safety, prevent abuse, and enforce Terms.  
+  - To communicate with users (service messages, security alerts, limited marketing where allowed).  
+  - To generate aggregated/anonymized analytics and research.  
+- Legal bases (conceptual, not jurisdiction-specific): contract performance, legitimate interests, consent, legal obligations.  
+- Sharing and disclosure:  
+  - Categories of recipients: hosting providers, analytics tools, moderation/safety tools, push notification services, app stores, payment processors (if any), advisors, regulators and law enforcement where required.  
+  - Explicit statement that SceneApps does not sell personal data in the everyday sense of “sell.”  
+- International transfers and safeguards.  
+- Data retention practices with general timeframes.  
+- User rights: access, correction, deletion, restriction, objection, portability, withdrawal of consent; how to exercise them (in-app where possible and via email).  
+- Children’s data: refer to Child Safety Policy, state age rules, and what happens if underage users are found.  
+- Security measures at a high level.  
+- Cookies and similar technologies on website/app.  
+- Changes to the policy and how users will be informed.  
+- Contact information for questions and complaints, and mention of potential recourse to data protection authorities.
+
+### 6. Part 4 – Child Safety Policy (`/child-safety`)
+
+Draft a standalone **Child Safety Policy** consistent with the Terms and Privacy Policy.
+
+Include:
+
+- Clear statement of commitment to protecting children on the platform.  
+- Definition of “child” or “minor” and restatement of minimum age to use SceneApps.  
+- Role of parents/guardians if minors are permitted with supervision under local law.  
+- Explicitly prohibited content and conduct involving minors, including:  
+  - Sexual, exploitative, abusive, or degrading content.  
+  - Grooming, nudity, or sexualized imagery involving minors.  
+  - Bullying, harassment, threats, or doxxing of minors.  
+  - Content promoting self-harm, dangerous challenges, or serious harm involving minors.  
+- Description of safety tools: blocking, reporting, privacy controls (described in a way that stays accurate as features evolve).  
+- Reporting process: how users can report harmful content or concerns (in-app and via `contact@sceneapps.com`); strong recommendation to contact local authorities in emergencies.  
+- Moderation and enforcement actions: content removal, account restrictions, suspensions, terminations, cooperation with law enforcement.  
+- Data handling in child safety cases: retention of relevant information for investigations, prevention of further harm, and compliance with law, with a link back to the Privacy Policy principles.  
+- Commitment to updating and improving child safety practices over time.
+
+### 7. Output format
+
+Provide:
+
+1. **Improved homepage copy** mapped section-by-section to the existing structure (hero, core promise, 4 features, authenticity/safety reassurance, CTAs, platform sentence), with no new structural sections.  
+2. **Full Terms of Service** text for `/terms`.  
+3. **Full Privacy Policy** text for `/privacy`.  
+4. **Full Child Safety Policy** text for `/child-safety`.
+
+Ensure everything is internally consistent (same company name, age thresholds, contact email, product description) and suitable for a production-facing global consumer app.
