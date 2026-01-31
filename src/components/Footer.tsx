@@ -1,6 +1,6 @@
 import { Mail } from "lucide-react";
 import { Link } from "wouter";
-import logoImage from "/favicon.png";
+
 
 export function Footer() {
   const currentYear = new Date().getFullYear();
@@ -14,7 +14,7 @@ export function Footer() {
             <Link href="/" className="flex items-center gap-3 hover:opacity-90 transition-opacity w-fit no-default-hover-elevate">
               <div className="w-10 h-10 rounded-full overflow-hidden flex items-center justify-center bg-transparent shrink-0">
                 <img 
-                  src={logoImage} 
+                  src="/favicon.png" 
                   alt="SceneApps Logo" 
                   className="w-full h-full object-cover"
                 />
